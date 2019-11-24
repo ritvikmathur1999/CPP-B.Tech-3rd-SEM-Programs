@@ -1,4 +1,4 @@
 # Welcome to the CPP Programs Repository
-+ Find your required CPP program here.
-+ These programs are only for the reference and are focused for the examination purpose. 
++ Find your CPP program here.
++ These programs are for the reference and are focused for the examination purpose only. 
 + ALL THE BEST!
